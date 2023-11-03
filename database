@@ -3,7 +3,12 @@
   "1": {"title": "Gioi thieu", "desc": "Huong dan truoc khi bat dau", "content_url": "null"},
   "2": {"title": "Hoc co ban", "desc": "No desc", "content_url": "null"},
   "3": {"title": "thiendev la ai:))", "desc": "by thiendev", "content_url": "null"},
-  "4": {"title": "Testing lesson", "desc": "No desc", "content_url": "null"},
+  "4": {"title": "Testing lesson 1", "desc": "No desc", "content_url": "null"},
+  "5": {"title": "Testing lesson 2", "desc": "No desc", "content_url": "null"},
+  "6": {"title": "Testing lesson 3", "desc": "No desc", "content_url": "null"},
+  "7": {"title": "Testing lesson 4", "desc": "No desc", "content_url": "null"},
+  "8": {"title": "Testing lesson 5", "desc": "No desc", "content_url": "null"},
+  "9": {"title": "Testing lesson 6", "desc": "No desc", "content_url": "null"},
+  "10": {"title": "Testing lesson 7", "desc": "No desc", "content_url": "null"},
   }
-  
 }
