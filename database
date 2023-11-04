@@ -1,6 +1,6 @@
 {
   "home": {
-  "1": {"title": "Gioi thieu", "desc": "Huong dan truoc khi bat dau", "content_url": "null"},
+  "1": {"title": "Gioi thieu", "desc": "Huong dan truoc khi bat dau", "content_url": "1"},
   "2": {"title": "Hoc co ban", "desc": "No desc", "content_url": "null"},
   "3": {"title": "thiendev la ai:))", "desc": "by thiendev", "content_url": "null"},
   "4": {"title": "Testing lesson 1", "desc": "No desc", "content_url": "null"},
